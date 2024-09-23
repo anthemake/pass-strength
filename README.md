@@ -24,6 +24,7 @@ Provides instant feedback on password strength, allowing users to make adjustmen
 <img src="./public/img/standard-pass.png" alt="Standard Password" width="500"/>
 
 
+
 # How It Works
 
 ### Password Input:
@@ -105,4 +106,4 @@ This project demonstrates compliance with guidelines like NIST SP 800-63B.
 
 - Integration with Authentication
 
-- Breach Detection:
+- Breach Detection
