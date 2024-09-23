@@ -18,11 +18,10 @@ Provides instant feedback on password strength, allowing users to make adjustmen
 
 # Demo
 
-![Home](./img/Home.png)
-![Your grandmas Password](./img/your-grandmas-pass.png)
-![Average Password](./img/average-pass.png)
-![Standard Password](./img/standard-pass.png)
-
+<img src="./public/img/Home.png" alt="Password Strength Analyzer Home" width="500"/>
+<img src="./public/img/your-grandmas-pass.png" alt="Weak Password" width="500"/>
+<img src="./public/img/average-pass.png" alt="Average Password" width="500"/>
+<img src="./public/img/standard-pass.png" alt="Standard Password" width="500"/>
 
 
 # How It Works
